@@ -1,4 +1,4 @@
-# 🧾 Legal PDF Analyzer (Ollama + React)
+# 🧾 Legal PDF Analyzer (Ollama + NextJs)
 
 This full-stack app allows users to upload a **legal PDF** and receive AI-generated insights such as:
 
