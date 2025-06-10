@@ -13,7 +13,7 @@ This full-stack app allows users to upload a **legal PDF** and receive AI-genera
 - **Frontend**: NextJs, TailwindCSS
 - **Backend**: Node.js, Express
 - **AI Engine**: [Ollama](https://ollama.com) with `mistral` model
-- **PDF Handling**: `multer` for uploads
+- **PDF Handling**: `multer` for uploads, `pdf-parser` for processing
 - **Caching**: In-memory (future: Redis)
 
 ---
